@@ -1,6 +1,10 @@
 # data-science
 This is a repository for trying on different data science problem statements
 
+1. [Project 1 Description](https://github.com/garv1510/data-science/blob/main/Major_Project.ipynb)
+   - [Project 1 Code](https://github.com/garv1510/data-science/blob/main/Major_Project.ipynb)
+
+
 
 <h1 align="center">Hi 👋, I'm Garv Sharma</h1>
 <h3 align="center">A Masters of Data Science student at Macquarie University</h3>
